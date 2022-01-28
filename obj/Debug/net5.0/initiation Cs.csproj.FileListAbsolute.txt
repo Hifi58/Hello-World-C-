@@ -1,0 +1,15 @@
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/bin/Debug/net5.0/initiation Cs.deps.json
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/bin/Debug/net5.0/initiation Cs.runtimeconfig.json
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/bin/Debug/net5.0/initiation Cs.runtimeconfig.dev.json
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/bin/Debug/net5.0/initiation Cs.dll
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/bin/Debug/net5.0/ref/initiation Cs.dll
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/bin/Debug/net5.0/initiation Cs.pdb
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/obj/Debug/net5.0/initiation Cs.csprojAssemblyReference.cache
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/obj/Debug/net5.0/initiation Cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/obj/Debug/net5.0/initiation Cs.AssemblyInfoInputs.cache
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/obj/Debug/net5.0/initiation Cs.AssemblyInfo.cs
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/obj/Debug/net5.0/initiation Cs.csproj.CoreCompileInputs.cache
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/obj/Debug/net5.0/initiation Cs.dll
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/obj/Debug/net5.0/ref/initiation Cs.dll
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/obj/Debug/net5.0/initiation Cs.pdb
+/Users/anaisbiquena/Desktop/Projet perso Tony/initiation Cs/obj/Debug/net5.0/initiation Cs.genruntimeconfig.cache
